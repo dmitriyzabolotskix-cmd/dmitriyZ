@@ -1,0 +1,13 @@
+{
+  "name": "eco-krsk-website",
+  "version": "1.0.0",
+  "description": "ЭКО КРСК - Экологические технологии в Красноярске",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site build complete'",
+    "start": "echo 'Site is ready'"
+  },
+  "keywords": ["экология", "красноярск", "технологии", "экспертиза"],
+  "author": "ЭКО КРСК",
+  "license": "MIT"
+}
